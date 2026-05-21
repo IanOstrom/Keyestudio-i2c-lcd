@@ -1,22 +1,12 @@
 
-> Open this page at [https://rescobar9.github.io/keyestudio-i2c-lcd/](https://rescobar9.github.io/keyestudio-i2c-lcd/)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rescobar9/keyestudio-i2c-lcd** and import
-
-## Edit this project ![Build status badge](https://github.com/rescobar9/keyestudio-i2c-lcd/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/rescobar9/keyestudio-i2c-lcd** and click import
+* paste **https://github.com/IanOstrom/Keyestudio-i2c-lcd** and click import
 
 ## Blocks preview
 
